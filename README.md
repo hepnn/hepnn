@@ -5,5 +5,5 @@
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/hepnn/hepnn/assets/47219299/0c5edffb-33c8-4d52-95d0-df36819c9cb0');]{x0000}$}
 ```
-https://github.com/hepnn/hepnn/assets/47219299/22047bcf-0f90-4bbf-b2dd-0c8cac163d0e
+ 
 
