@@ -3,5 +3,5 @@
 ```
 
 ```math
-\ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url('https://github.com/hepnn/hepnn/assets/47219299/54a19758-ea72-4e37-8156-d40c16e538a7'); right: 0; top: 550px; left: 40px; height: 88px; width: 686px;]{x0000}$}
+\ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url('https://github.com/hepnn/hepnn/assets/47219299/54a19758-ea72-4e37-8156-d40c16e538a7'); right: 0; top: 570px; left: 40px; height: 88px; width: 686px;]{x0000}$}
 ```
